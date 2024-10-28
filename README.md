@@ -32,6 +32,7 @@ Here's a brief overview of the key files in the project:
 - **`style.css`**: Primary stylesheet, defining layout, color schemes, and responsiveness.
 - **`style1.css`**: Supplementary stylesheet with additional styles for specific components.
 - **`bloodbank`**: SQL Source file that Stores the database entries.
+- **`Report.pdf`**: Contains a detailed description of the project, including architecture, functionality, and additional information.
   
 ## Installation
 
