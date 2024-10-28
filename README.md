@@ -8,9 +8,6 @@ This project includes a web application with a registration form, contact form, 
 - [Features](#features)
 - [File Structure](#file-structure)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -30,9 +27,12 @@ Here's a brief overview of the key files in the project:
 - **`registration.php`**: Contains the code for the user registration form and backend handling.
 - **`contact.php`**: Manages the contact form, processing user input and providing feedback.
 - **`search.php`**: Implements search functionality, retrieving results based on user queries.
+- **`submit.php`**: Connects the database to the frontend, enabling data submission and retrieval.
+- **`blood_search.php`**: Searches the database for specific information (e.g., blood type) based on user input.
 - **`style.css`**: Primary stylesheet, defining layout, color schemes, and responsiveness.
 - **`style1.css`**: Supplementary stylesheet with additional styles for specific components.
-
+- **`bloodbank`**: SQL Source file that Stores the database entries.
+  
 ## Installation
 
 1. Clone this repository:
